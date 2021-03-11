@@ -19,12 +19,6 @@
                 "has_subnav": false
             },
             {
-                "label": "Tests",
-                "url": "/tests",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
                 "label": "Drop Down for Fun",
                 "url": "#",
                 "style": "link",
