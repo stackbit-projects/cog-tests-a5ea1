@@ -11,7 +11,7 @@ sections:
     subtitle: lorem-ipsum
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Game 1
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
