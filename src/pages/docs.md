@@ -1,11 +1,6 @@
 ---
 title: Overview Grid
 sections:
-  - title: Blue
-    section_id: lorem-ipsum
-    subtitle: Subtitle
-    actions: []
-    type: section_cta
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
@@ -24,6 +19,11 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
+  - title: Blue
+    section_id: lorem-ipsum
+    subtitle: Subtitle
+    actions: []
+    type: section_cta
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
