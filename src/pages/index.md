@@ -20,7 +20,7 @@ sections:
           A summary of what the page would contain. Say, a bit of into about the
           cerebellum or whatever you want.
         actions:
-          - label: Get Started
+          - label: Learn More
             url: /docs
             style: link
       - title: Tests
