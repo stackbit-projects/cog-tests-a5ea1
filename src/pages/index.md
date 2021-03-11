@@ -28,7 +28,7 @@ sections:
           A summary of what the page would contain. Like an intro to the
           cognitive tests or whatever you want.
         actions:
-          - label: View Posts
+          - label: View Tests
             url: /blog
             style: link
       - title: Something
