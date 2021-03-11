@@ -29,7 +29,7 @@ sections:
           cognitive tests etc.
         actions:
           - label: View Tests
-            url: /tests
+            url: /docs
             style: link
       - title: Something
         content: >
