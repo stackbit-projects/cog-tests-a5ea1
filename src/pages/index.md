@@ -26,7 +26,7 @@ sections:
       - title: Tests
         content: >
           A summary of what the page would contain. Like an intro to the
-          cognitive tests or whatever you want.
+          cognitive tests etc.
         actions:
           - label: View Tests
             url: /tests
