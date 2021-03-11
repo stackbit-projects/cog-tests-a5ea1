@@ -1,5 +1,5 @@
 ---
-title: Features
+title: References
 weight: 2
 seo:
   title: Features
