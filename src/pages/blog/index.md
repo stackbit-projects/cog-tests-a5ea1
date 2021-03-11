@@ -2,7 +2,7 @@
 title: Tests
 subtitle: Here you can find all the different cognitive tests
 image: images/5.jpg
-has_more_link: true
+has_more_link: false
 more_link_text: Read more
 seo:
   title: Blog
