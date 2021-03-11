@@ -10,9 +10,9 @@ sections:
         title_url: /game-1
         image_alt: lorem-ipsum
         content: |
-          ## Title
+          #### Title
 
-          Test overview information random facts and all that jazz 
+          Test overview information random facts and all that jazz
 
           *   Brain area it tests for 1
           *   Brain area it tests for 2
@@ -22,11 +22,11 @@ sections:
         title_url: /game-2
         image_alt: lorem-ipsum
         content: |
-          ## Title
+          #### Title
 
           You know the drill by now, test overview details blah blah
 
-          *   Brain 
+          *   Brain
           *   Areas
         actions: []
         type: grid_item
@@ -34,7 +34,7 @@ sections:
         title_url: /game-3
         image_alt: lorem-ipsum
         content: |
-          ## Title
+          #### Title
 
           Test overview information the quick brown fox jumps over the lazy dog.
 
