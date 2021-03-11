@@ -1,8 +1,5 @@
 ---
 title: Brain Mapping
-excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
 seo:
   title: About
   description: This is the about page
