@@ -10,9 +10,9 @@ seo:
   type: stackbit_page_meta
 template: docs
 ---
-## Lorem ipsum
+## Cerebellum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Add science things here about the cerebellum
 
-- Lorem ipsum
-- dolor sit amet
+*   Lobes and gradients and stuff
+*   Wow so interesting
