@@ -1,7 +1,7 @@
 ---
 title: Game 1
 sections:
-  - title: Game 1
+  - title: Game 3
     section_id: Intro
     image_alt: lorem-ipsum
     image_position: left
