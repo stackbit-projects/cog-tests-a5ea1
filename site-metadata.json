@@ -20,7 +20,7 @@
             },
             {
                 "label": "Tests",
-                "url": "tests",
+                "url": "/tests",
                 "style": "link",
                 "has_subnav": true,
                 "subnav_links": [
