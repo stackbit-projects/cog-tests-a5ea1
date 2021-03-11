@@ -19,7 +19,7 @@
                 "has_subnav": false
             },
             {
-                "label": "Blog",
+                "label": "Tests",
                 "url": "/blog",
                 "style": "link",
                 "has_subnav": false
