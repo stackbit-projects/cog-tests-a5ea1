@@ -10,9 +10,9 @@ sections:
         title_url: /game-1
         image_alt: lorem-ipsum
         content: |
-          ## Title
+          #### Title
 
-          Test overview information random facts and all that jazz 
+          Test overview information random facts and all that jazz
 
           *   Brain area it tests for 1
           *   Brain area it tests for 2
