@@ -16,10 +16,9 @@ sections:
     col_number: three
     grid_items:
       - title: Cerebellum
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          A summary of what the page would contain. Say, a bit of into about the
+          cerebellum or whatever you want.
         actions:
           - label: Get Started
             url: /docs
