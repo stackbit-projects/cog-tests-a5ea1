@@ -14,17 +14,13 @@ sections:
       - title: Game 1
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ## Title
 
+          Test overview information random facts and all that jazz 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Brain area it tests for 1
+          *   Brain area it tests for 2
         actions: []
         type: grid_item
     type: section_grid
