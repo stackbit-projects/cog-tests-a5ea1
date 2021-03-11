@@ -3,7 +3,7 @@ title: Overview Grid
 sections:
   - title: Tests Overview
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Subtitle
     col_number: three
     grid_items:
       - title: Game 1
