@@ -11,7 +11,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
-  - title: lorem-ipsum
+  - title: Content Section
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
