@@ -1,7 +1,7 @@
 ---
 title: Doc 1
 sections:
-  - title: Overview Sectionn
+  - title: Overview Section
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
