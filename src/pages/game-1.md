@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Game 1
 sections: []
 seo:
   title: ''
