@@ -1,7 +1,7 @@
 ---
 title: Doc 1
 weight: 0
-excerpt: lorem-ipsum
+excerpt: Doc 1
 seo:
   title: ''
   description: ''
