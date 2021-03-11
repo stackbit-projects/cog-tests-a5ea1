@@ -7,7 +7,7 @@ sections:
     col_number: three
     grid_items:
       - title: Game 1
-        title_url: lorem-ipsum
+        title_url: /game-1
         image_alt: lorem-ipsum
         content: |
           ## Title
