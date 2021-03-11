@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Cognitive Tests
-    image: images/Warwick.jpeg
+    image: images/5.jpg
     content: |
       Subtitle goes here. Brief intro to the site, etc.
     actions:
