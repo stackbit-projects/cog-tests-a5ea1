@@ -49,7 +49,7 @@ sections:
       fascinating information. Delirium you say? How intriguing.
     actions:
       - label: A button!
-        url: /docs/getting-started
+        url: /
         style: primary
       - label: Another button!
         url: /docs/getting-started
